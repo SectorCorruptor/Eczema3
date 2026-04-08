@@ -1,2 +1,2 @@
-# eczema
-A WIP (hopefully golfy) esolang compiling to Scratch
+# Eczema
+A WIP (hopefully golfy) esolang compiling to Scratch. Not much present in this repository for now since I'm still working on it locally, and slowly considering I live in real life...
